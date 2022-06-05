@@ -1,3 +1,7 @@
+![example workflow](https://github.com/lekseff/Tickets_Frontend/actions/workflows/deploy.yml/badge.svg)
+
+[GitHub Pages](https://lekseff.github.io/Tickets_Frontend/)
+
 ### HelpDesk: Frontend
 
 #### Легенда
